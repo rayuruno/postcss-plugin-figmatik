@@ -22,7 +22,7 @@
   "author": "ouyar@turnitin.com",
   "license": "MIT",
   "files": [
-    "src/plugin.js",
+    "src/*",
     "package.json",
     "README.md"
   ],
