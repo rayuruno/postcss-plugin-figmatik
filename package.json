@@ -13,9 +13,6 @@
   "peerDependencies": {
     "postcss": "*"
   },
-  "developmentDependencies": {
-    "postcss": "*"
-  },
   "keywords": [
     "figmatik",
     "figma",
@@ -30,6 +27,7 @@
     "README.md"
   ],
   "devDependencies": {
-    "uvu": "^0.5.3"
+    "uvu": "^0.5.3",
+    "postcss": "*"
   }
 }
