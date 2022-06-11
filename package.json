@@ -1,0 +1,35 @@
+{
+  "name": "postcss-plugin-figmatik",
+  "version": "0.0.0",
+  "description": "figmatik in [post]css",
+  "main": "src/plugin.js",
+  "scripts": {
+    "test": "uvu"
+  },
+  "dependencies": {
+    "figmatik": "github:rayuruno/figmatik",
+    "postcss-value-parser": "*"
+  },
+  "peerDependencies": {
+    "postcss": "*"
+  },
+  "developmentDependencies": {
+    "postcss": "*"
+  },
+  "keywords": [
+    "figmatik",
+    "figma",
+    "postcss",
+    "css"
+  ],
+  "author": "ouyar@turnitin.com",
+  "license": "MIT",
+  "files": [
+    "src/plugin.js",
+    "package.json",
+    "README.md"
+  ],
+  "devDependencies": {
+    "uvu": "^0.5.3"
+  }
+}
