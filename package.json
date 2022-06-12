@@ -7,10 +7,10 @@
     "test": "uvu"
   },
   "dependencies": {
-    "figmatik": "github:rayuruno/figmatik",
     "postcss-value-parser": "*"
   },
   "peerDependencies": {
+    "figmatik": "github:rayuruno/figmatik",
     "postcss": "*"
   },
   "keywords": [
